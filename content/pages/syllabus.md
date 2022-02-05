@@ -57,13 +57,66 @@ The general distribution of grading between labs, quizzes, problem sets, etc. is
 
 All assigned work must be submitted in order to receive a grade.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Laboratory Work and Reports | 30% |
-| Problem Sets, In-class Work, and Practical Exercise | 10% |
-| Quiz | 10% |
-| Mark I Progress Reports and Mark I Project Work | 15% |
-| Final Project Work and Final Report | 35% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratory Work and Reports
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets, In-class Work, and Practical Exercise
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mark I Progress Reports and Mark I Project Work
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project Work and Final Report
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Each student must have a bound laboratory notebook and use it to record all lab work. Weekly lab reports are due at the following week's lab session. Each lab is worth six percentage points. Late reports will lose 1 percentage point per day. Each student may have one no-penalty extension during the term, applicable to any of the first six labs. Weekly lab reports are an individual effort.
 

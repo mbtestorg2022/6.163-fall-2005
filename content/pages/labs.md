@@ -50,10 +50,63 @@ The lab assignments for the course are listed below.
 
 Practical Exercise ([PDF]({{< baseurl >}}/resources/practcl_exercise))
 
-| LAB # | Topics |
-| --- | --- |
-| 1 | Synch and Delay ([PDF]({{< baseurl >}}/resources/lab1_assign)) |
-| 2 | Stroboscopy ([PDF]({{< baseurl >}}/resources/lab2_assign)) |
-| 3 | Multiflash Photography ([PDF]({{< baseurl >}}/resources/lab3_assign)) |
-| 4 | High Speed Video ([PDF]({{< baseurl >}}/resources/lab4_assign)) |
-| 5 | Bullet Photography ([PDF]({{< baseurl >}}/resources/lab5_assign))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LAB #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Synch and Delay ([PDF]({{< baseurl >}}/resources/lab1_assign))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Stroboscopy ([PDF]({{< baseurl >}}/resources/lab2_assign))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Multiflash Photography ([PDF]({{< baseurl >}}/resources/lab3_assign))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+High Speed Video ([PDF]({{< baseurl >}}/resources/lab4_assign))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Bullet Photography ([PDF]({{< baseurl >}}/resources/lab5_assign))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
