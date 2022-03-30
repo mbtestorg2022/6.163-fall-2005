@@ -7,6 +7,7 @@ image_metadata:
   caption: Video of a bullet passing through a cucumber.
   credit: ''
   image-alt: ''
+parent_uid: 51cd369a-eca7-e347-1507-a5f406669ce5
 resourcetype: Image
 title: clip0257_thumb.jpg
 uid: 6af7eda9-a9dc-cebe-62e3-1f2bd4a8c4e7

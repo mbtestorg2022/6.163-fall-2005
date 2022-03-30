@@ -8,6 +8,7 @@ image_metadata:
   caption: 'Still frame #1 taken from high speed video of milkdrop sequence.'
   credit: Image courtesy of Arlis Reynolds.
   image-alt: 'Still frame #1 taken from high speed video of milkdrop sequence.'
+parent_uid: 31ac6eb3-b942-36b7-020c-3730da6b81bb
 resourcetype: Image
 title: milk1.jpg
 uid: d31feaf1-24e0-b2e1-48fc-f9ffba2e2913

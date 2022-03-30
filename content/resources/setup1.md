@@ -8,6 +8,7 @@ image_metadata:
   caption: 'The complete setup: hammers, anvil, forge, and HSV camera.'
   credit: Image courtesy of Arlis Reynolds.
   image-alt: 'The complete setup: hammers, anvil, forge, and HSV camera.'
+parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 resourcetype: Image
 title: setup1.jpg
 uid: c32bb229-c6b4-a4bc-4f73-55eecff6e005

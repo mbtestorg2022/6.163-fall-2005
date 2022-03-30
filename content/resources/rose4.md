@@ -8,6 +8,7 @@ image_metadata:
   caption: Frozen rose 4 - just as bullet exits (original image).
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Frozen rose 4 - just as bullet exits (original image).
+parent_uid: 376b6570-b785-1e1d-9d5b-f6d2d3b35fff
 resourcetype: Image
 title: rose4.jpg
 uid: 5f1db34f-f7d2-d8a4-ddfd-432db06be785

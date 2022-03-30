@@ -7,6 +7,7 @@ image_metadata:
   caption: Blacksmith Amy heats metal in the forge.
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Blacksmith Amy heats metal in the forge.
+parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 resourcetype: Image
 title: setup4.jpg
 uid: bd2cebe7-3129-6499-8466-0c1541982737

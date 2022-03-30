@@ -7,6 +7,7 @@ image_metadata:
   caption: Camera lens focused at infinity.
   credit: Photo courtesy of Jim Bales.
   image-alt: Camera lens focused at infinity.
+parent_uid: 51e67a31-2538-a373-46f7-721da1229636
 resourcetype: Image
 title: lens3_infinity.jpg
 uid: 74b8c3d2-25bc-7b83-700f-a588a1db2276

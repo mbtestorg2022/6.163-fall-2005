@@ -7,6 +7,7 @@ image_metadata:
   caption: Camera lens at standard extension.
   credit: Photo courtesy of Jim Bales.
   image-alt: Camera lens at standard extension.
+parent_uid: 51e67a31-2538-a373-46f7-721da1229636
 resourcetype: Image
 title: lens1_std.jpg
 uid: e54b3f2b-8b20-90a4-232e-9065ec340219

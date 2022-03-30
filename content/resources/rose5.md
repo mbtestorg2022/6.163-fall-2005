@@ -8,6 +8,7 @@ image_metadata:
   caption: Frozen rose 5 - exit spray (original image).
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Frozen rose 5 - exit spray (original image).
+parent_uid: 376b6570-b785-1e1d-9d5b-f6d2d3b35fff
 resourcetype: Image
 title: rose5.jpg
 uid: 33e03cee-bd4d-236a-a0cb-cd8a1a64de21

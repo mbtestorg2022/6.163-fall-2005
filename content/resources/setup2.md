@@ -7,6 +7,7 @@ image_metadata:
   caption: Nima and Heather setting up the HSV camera.
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Nima and Heather setting up the HSV camera.
+parent_uid: eef6bfea-3fc5-9cd3-21fa-e9b244084d17
 resourcetype: Image
 title: setup2.jpg
 uid: be4d80f6-eb39-1aab-11d0-3037b1ed3bcb

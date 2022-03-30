@@ -7,6 +7,7 @@ image_metadata:
   caption: Test shot of card and bullet on eraser.
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Test shot of card and bullet on eraser.
+parent_uid: 376b6570-b785-1e1d-9d5b-f6d2d3b35fff
 resourcetype: Image
 title: card.jpg
 uid: f3d7ad8d-3df9-958c-6ca7-62aa8fd63022

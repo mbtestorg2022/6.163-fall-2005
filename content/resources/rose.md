@@ -7,6 +7,7 @@ image_metadata:
   caption: Test shot of frozen rose.
   credit: Image courtesy of Arlis Reynolds.
   image-alt: Test shot of frozen rose.
+parent_uid: 376b6570-b785-1e1d-9d5b-f6d2d3b35fff
 resourcetype: Image
 title: rose.jpg
 uid: d2a957d3-0f9f-bcf4-cc9e-8842e5d143fd

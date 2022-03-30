@@ -7,6 +7,7 @@ image_metadata:
   caption: 'Deformation sequence, on the anvil - #2.'
   credit: Image courtesy of Arlis Reynolds.
   image-alt: 'Deformation sequence, on the anvil - #2.'
+parent_uid: f33409c4-8175-2714-b81d-3c2218afaf85
 resourcetype: Image
 title: zburning-metal2.jpg
 uid: 49b14431-52a3-e227-1016-d566c7202537

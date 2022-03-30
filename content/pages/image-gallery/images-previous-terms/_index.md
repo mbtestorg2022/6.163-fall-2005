@@ -27,12 +27,12 @@ uid: a3cfdb5a-7890-2270-10b6-6606ba1bb0aa
 {{</ image-gallery >}}
 ### {{< anchor "Videos" >}}{{< /anchor >}}Videos
 
-*   [![](/courses/electrical-engineering-and-computer-science/6-163-strobe-project-laboratory-fall-2005/image-gallery/images-previous-terms/videos/clip0257_thumb.jpg)Video of a bullet passing through a cucumber.  
+*   [{{< resource "6af7eda9-a9dc-cebe-62e3-1f2bd4a8c4e7" >}}Video of a bullet passing through a cucumber.  
     (1.6MB)](http://www.archive.org/download/MIT6.163F05/betterclip0257fast__512kb.mp4)
-*   [![](/courses/electrical-engineering-and-computer-science/6-163-strobe-project-laboratory-fall-2005/image-gallery/images-previous-terms/videos/clip0242_thumb.jpg)Video of a bullet passing through a banana.  
+*   [{{< resource "ef008f31-a706-0d9e-9312-8d030272e400" >}}Video of a bullet passing through a banana.  
     (2.2MB)](http://www.archive.org/download/MIT6.163F05/betterclip0242__512kb.mp4)
-*   [![](/courses/electrical-engineering-and-computer-science/6-163-strobe-project-laboratory-fall-2005/image-gallery/images-previous-terms/videos/clip0123_thumb.jpg)Video of a pencil shot into a board.  
+*   [{{< resource "c32dab25-d526-22b0-578d-d2e47c41e986" >}}Video of a pencil shot into a board.  
       
     ](http://www.archive.org/download/MIT6.163F05/betterclip0123__512kb.mp4)
-*   [![](/courses/electrical-engineering-and-computer-science/6-163-strobe-project-laboratory-fall-2005/image-gallery/images-previous-terms/videos/clip0113_thumb.jpg)Video of a pencil shot into a board.  
+*   [{{< resource "7a726d6a-aa7f-1853-216c-7ddb71291d1e" >}}Video of a pencil shot into a board.  
     (1.2MB)](http://www.archive.org/download/MIT6.163F05/betterclip0113slow__512kb.mp4)

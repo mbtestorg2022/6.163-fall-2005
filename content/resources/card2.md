@@ -8,6 +8,7 @@ image_metadata:
   caption: 8 of diamonds with bullet halfway through the card.
   credit: Image courtesy of Arlis Reynolds.
   image-alt: 8 of diamonds with bullet halfway through the card.
+parent_uid: 376b6570-b785-1e1d-9d5b-f6d2d3b35fff
 resourcetype: Image
 title: card2.jpg
 uid: 56045513-496d-bf4b-fe34-25dcff889492

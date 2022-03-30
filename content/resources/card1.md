@@ -7,6 +7,7 @@ image_metadata:
   caption: 8 of spades just after bullet enters card.
   credit: Image courtesy of Arlis Reynolds.
   image-alt: 8 of spades just after bullet enters card.
+parent_uid: 376b6570-b785-1e1d-9d5b-f6d2d3b35fff
 resourcetype: Image
 title: card1.jpg
 uid: 04ca3e9f-fd53-9951-e222-b78cf7b872e0
